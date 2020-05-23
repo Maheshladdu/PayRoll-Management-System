@@ -22,4 +22,4 @@ diagrams. Individual modules of the system are tested later and test cases are g
 all the modules are integrated and then whole system testing is performed to ensure that the system is
 error free and secured.
 
-Please find detail project [here](https://github.com/parthlathiya/PayRoll_Management_System/blob/master/Project_Report.pdf)
+Please find detail report [here](https://github.com/parthlathiya/PayRoll_Management_System/blob/master/Project_Report.pdf)
