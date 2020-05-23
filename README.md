@@ -2,8 +2,7 @@
 
 Payroll Management System is the system that maintains all the records of all employees and accountants of an organization.
 
-## Getting Started
-
+## Project Summary
 
 Payroll Management System (PMS) is a system which is used to maintain records of
 all the users working in an organization, providing an easy GUI to the user. This System is per
